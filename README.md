@@ -23,7 +23,7 @@ Minimum Android version: **Android 8.0 (API 26)** and up.
 - **Budget** - set a monthly budget, track it against the calendar month or your own custom reset day (e.g. payday), and save/load full budget setups
 - **Balance Sheet** - a complete transaction ledger with an income-vs-expense breakdown chart and running balance total
 - **Profile** - local profile, a currency picker covering virtually every country, light/dark/system theme, and a one-tap privacy mode that hides all amounts on screen
-- **Moe Assist** - a built-in assistant for adding, editing, and querying your finances using plain-English commands like *"spent 250 on groceries"*, *"what's my balance"*, or *"remind me to pay rent 3000 on day 1"* — entirely on-device, no internet connection required
+- **Moe Assist** - a built-in assistant for adding, editing, and querying your finances using plain-English commands like *"spent 250 on groceries"*, *"what's my balance"*, or *"remind me to pay rent 3000 on day 1"*, entirely on-device, no internet connection required
 
 ## Privacy
 
